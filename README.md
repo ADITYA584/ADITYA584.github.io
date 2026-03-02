@@ -1,17 +1,6 @@
-# How I Convert DAV to MP4 Online – Play CCTV Footage Anywhere Easily 
- 
- ![Featured Image](https://images.unsplash.com/photo-1589935447067-5531094415d1?fit=crop&q=80&w=870)
-
-## Table of Contents 
-1. - [Why I Convert DAV to MP4](#why-convert-dav-to-mp4) 
-2. - [The Simplest Way: Convert DAV to MP4 Online](#the-simplest-way-convert-dav-to-mp4-online) 
-3. - [Why I Use DragDropDo’s DAV to MP4 Converter](#why-use-dragdropdos-dav-to-mp4-converter) 
-4. - [How I Use DragDropDo’s CCTV Video Converter](#how-to-use-dragdropdos-cctv-video-converter) 
-5. - [The Bottom Line](#the-bottom-line) 
- 
 When I first tried to play back CCTV footage on my laptop, I ran into a mysterious file type called **.DAV**. I double-clicked, and instead of my video opening, I got silence, errors, and unsupported format messages. That’s when I realised DAV is a proprietary format used by DVRs and CCTV systems.   
  
-While DAV files work fine on the original DVR or CCTV system, the real struggle begins when I want to **open DAV files** on my phone, laptop, or share them with someone else. That’s where a good [**DAV to MP4 converter**](https://dragdropdo.com/software/dav-to-mp4) completely changes the game for me.   
+While DAV files work fine on the original DVR or CCTV system, the real struggle begins when I want to **open DAV files** on my phone, laptop, or share them with someone else. That’s where a good [**DAV to MP4 converter**](https://dragdropdo.com/software/dav-to-mp4) completely changes the game for me. If I just want to explore other tools, I also head over to the [**DragDropDo**](https://dragdropdo.com) to see what else I can use.   
 For me, MP4 is the universal language of video. Whether I’m watching footage back, sharing it as evidence, or just sending a clip to a colleague, converting DAV to MP4 makes life a lot easier.   
  
 ## Why Convert DAV to MP4? 
@@ -40,7 +29,7 @@ Whether I’m trying to **convert CCTV video to MP4** for legal reasons, work, o
  
 ## How to Use DragDropDo’s CCTV Video Converter 
 Using the tool is straightforward. Here’s exactly how I do it: 
-1. I go to the DragDropDo website.   
+1. I go to the [DragDropDo homepage](https://dragdropdo.com) or directly to the DAV to MP4 tool.   
 2. I upload my DAV file(s) by dragging and dropping them into the browser.   
 3. I choose MP4 as the output format.   
 4. I click convert and wait a short moment while the files process.   
